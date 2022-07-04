@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6289606790112'] //ur owner number
-global.ownername = "REZA GANTENG"
-global.ytname = "YT: EzaBot-MD" //ur yt chanel name
-global.socialm = "GitHub: Rezaofc" //ur github or insta name
+global.owner = ['6289666747744'] //ur owner number
+global.ownername = "Prasz GANTENG"
+global.ytname = "YT: XyuuMD" //ur yt chanel name
+global.socialm = "GitHub: Prasbot1" //ur github or insta name
 global.location = "Indonesia, jawa timur," //ur location
 
 //bot bombdy
-global.botname = "EzaBot-MD" //ur bot name
-global.websitex = "https://youtube.com/channel/UCoUIE95oCiyo_Ps0l9rhcdw" //ur website
+global.botname = "XyuzIBot-MD" //ur bot name
+global.websitex = "https://youtube.com/channel/UCy3Dl_pqcIs2Dbdtq23IA3A" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "EzaBot\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "© By RezaOfc"
+global.packname = "XyuxiBot\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "© By PraszTampan"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['6289606790112'] //ur owner tag
-global.ownernummenu = ['6289606790112'] //ur owner number in menu and all
-global.watermark = "EzaBot-MD" //ur watermark
+global.reactmoji = "🥴"
+global.ownertag = ['6289666747744'] //ur owner tag
+global.ownernummenu = ['6289666747744'] //ur owner number in menu and all
+global.watermark = "XyuxiBot-MD" //ur watermark
 global.botscript = "https://github.com/Rezaofcbotmd"
-global.linkz1 = "https://chat.whatsapp.com/BCgUSCxQltq8SwcpJe1tDf"
-global.linkz2 = "https://chat.whatsapp.com/BCgUSCxQltq8SwcpJe1tDf"
+global.linkz1 = "https://chat.whatsapp.com/Lr6KNr05PEHAy7romaot9N"
+global.linkz2 = "https://chat.whatsapp.com/Hg9kUyuh7v047aIrUCz7lV"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -101,7 +101,7 @@ global.mess = {
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
+    wait: 'Wait a Minute second',
     linkm: 'Where is the link?',
     error: 'Error!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
